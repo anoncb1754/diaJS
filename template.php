@@ -1,0 +1,17 @@
+
+<head>
+  <title>This is a test template for using diaJS</title>
+  <script type="text/javascript" src="pixastic/pixastic.core.js"></script>
+  <script type="text/javascript" src="pixastic/actions/brightness.js"></script>
+
+</head>
+<body>
+  <h1>diaJS Test Template</h1>
+  <!-- <img id="the_doc" alt="Here is the document" src="images/test1.jpg" />-->
+  <canvas id="the_doc" width=500 height=500>
+  
+  </canvas>
+  <script type="text/javascript" src="greyscaling.js"></script>
+
+</body>
+
